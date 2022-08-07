@@ -5,3 +5,6 @@ third line first file
 5th line
 master branch new line
 change from dev branch to file 1
+
+
+changed something from master
