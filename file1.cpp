@@ -8,3 +8,6 @@ change from dev branch to file 1
 
 
 changed something from master
+
+
+line that was not suppose to be here
